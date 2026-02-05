@@ -1,0 +1,5 @@
+﻿  DCLA-NewV1.cpp
+  DataManager.cpp
+C:\Apps\DCLA-NewV1\DataManager.cpp(142,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  DCLA-NewV1.vcxproj -> C:\Apps\DCLA-NewV1\x64\Debug\DCLA-NewV1.exe
